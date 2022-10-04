@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db25d54-2fba-42bc-8dfd-22d8d7a4fb0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,8 +183,16 @@
       <workItem from="1565964433790" duration="5922000" />
       <workItem from="1565970974045" duration="5388000" />
       <workItem from="1565981529268" duration="13170000" />
-      <workItem from="1664873477029" duration="24000" />
+      <workItem from="1664873477029" duration="105000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: add some trash">
+      <created>1664873522444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664873522444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -226,6 +235,21 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: add some trash" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: add some trash" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.js" />
