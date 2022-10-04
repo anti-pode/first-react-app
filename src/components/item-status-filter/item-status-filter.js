@@ -11,6 +11,8 @@ export default class ItemStatusFilter extends React.Component {
 
     render() {
         const { filter, onTabClicked } = this.props;
+    
+        console.log(123)
 
         const buttons = this.buttons.map((item) => {
             const isActive = filter === item.name.toLowerCase();
